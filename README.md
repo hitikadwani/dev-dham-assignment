@@ -102,7 +102,7 @@ Get detailed information about a specific puja
   "title": "Akshaya Tritiya Puja",
   "tag": "Akshaya Tritiya",
   "date": "2025-05-10",
-  "location": "Temple or Home",
+  "location": "Shaktipeeth Mahalaxmi Kolhapur",
   "benefits": "Considered highly auspicious for new beginnings, wealth generation, and long-term prosperity.",
   "description": "Akshaya Tritiya is one of the most auspicious days in the Hindu calendar. 'Akshaya' means imperishable or eternal - that which never diminishes. Performing puja on this day is believed to bring unending prosperity."
 }
