@@ -79,6 +79,8 @@ Search for pujas by title, tag, or location
 ```bash
 GET /api/puja/date/{date}
 ```
+Get all pujas for a specific date (format: YYYY-MM-DD)
+
 
 ### Get All Pujas
 ```bash
