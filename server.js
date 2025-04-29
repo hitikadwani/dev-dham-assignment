@@ -6,7 +6,7 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Import routes
+
 const pujaRoutes = require('./routes/pujaRoutes');
 
 // Middleware

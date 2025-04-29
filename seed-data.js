@@ -1,11 +1,9 @@
-// This file will help you seed your database with initial puja data
-// Save this as seed-data.js in your project
+
 
 const mongoose = require('mongoose');
 require('dotenv').config();
 
-// Import the Puja model (assuming it's defined in a separate file)
-// If you're using the integrated approach from server.js, you'll need to extract the model to a separate file first
+
 const Puja = require('./models/Puja');
 
 // Sample puja data
